@@ -77,7 +77,7 @@ h1 {
 """, unsafe_allow_html=True)
 
 # --- 3. 모델 로드 ---
-file_id = 'https://drive.google.com/file/d/1pXskBQrYl5FgIuIogt6BrJL0XH_mV_OA/view?usp=sharing'
+file_id = '1pXskBQrYl5FgIuIogt6BrJL0XH_mV_OA'
 model_path = 'model.pkl'
 
 @st.cache_resource
